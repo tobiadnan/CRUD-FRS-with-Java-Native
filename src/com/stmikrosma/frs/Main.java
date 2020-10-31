@@ -425,6 +425,7 @@ public class Main {
                 stmt.execute(sql);
 
                 err.println("Data telah terhapus...\n");
+
             }else {
                 out.println("\nData tidak terhapus");
             }
