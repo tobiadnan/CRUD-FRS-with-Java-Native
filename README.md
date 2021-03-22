@@ -1,6 +1,7 @@
 # CRUD FRS with Java and MySql
 
-This project is only for completing the final project in my middle test of Collage. The name MyFRS because this app is simple about student FRS CRUD.
+This project is only for completing the final project in my middle test of Collage. here i'm using structured based programming with java language.
+The name MyFRS because this app is simple about student FRS CRUD.
 
 In working on this project I used the IntelliJ IDE Community Edition 2020.2.2 application.
 And for the Development Kit I use Oracle JDK-15.
